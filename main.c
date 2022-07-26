@@ -9,4 +9,6 @@ int main(int argc, char **argv)
   printf("Test Github Pull Request !!!");
 
   printf("Test Github Pull Request for multiple commit !!!");
+
+  printf("fix bug !!!");
 }
